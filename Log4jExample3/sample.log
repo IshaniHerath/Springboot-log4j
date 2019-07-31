@@ -1,0 +1,5 @@
+4    [main] WARN  com.wisdom.log4j.example.HelloWorld  - Sample warn message
+4    [main] ERROR com.wisdom.log4j.example.HelloWorld  - Sample error message
+5    [main] FATAL com.wisdom.log4j.example.HelloWorld  - Sample fatal message
+0    [main] ERROR com.wisdom.log4j.example.HelloWorld  - Sample error message
+4    [main] FATAL com.wisdom.log4j.example.HelloWorld  - Sample fatal message
